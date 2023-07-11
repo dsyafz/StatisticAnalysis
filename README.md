@@ -25,4 +25,4 @@ max_power : Brake horsepower of vehicle
 torque : Torque of vehicle
 seats : number of seats
 
-You can check my analysis on medium : 
+You can check my analysis on medium : https://medium.com/@dsyafz/statistical-analysis-used-car-price-132b073439d5
